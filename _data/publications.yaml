@@ -1,6 +1,6 @@
 papers:
   - title: "SafeLink: Uncertainty-Aware and Explainable LLM-Based Mobile Phishing Defense"
-    image: "/assets/publications/2026_soups/result_pdf_1.png"
+    image: "./assets/publications/2026_soups/result_pdf_1.png"
     authors: "<a>Wonyeong Choi</a><a>ky</a>, <a>Jiyeong Park</a>, <b><u>Joonsik An</u></b>, <a>Dayeon Jeong</a>, <a href='https://kyeongpil.com/professor/'>kyeongpil Kang</a>, <a href='https://hfm.kangwon.ac.kr/members/professor'>Woojoo Kim</a><sup>&#8224;</sup>, <a href='https://sites.google.com/view/knuisslab/members?authuser=0'>Dayoung Lee</a><sup>&#8224;</sup>"
     venue: "Symposium On Usable Privacy and Security (SOUPS) 2026"
     # paper_pdf: "https://arxiv.org/abs/2506.05843"
@@ -10,7 +10,7 @@ papers:
     selected: n
 
   - title: "LLM-Based System for Enhanced Text-to-Braille Translation: Incorporating Contextual Awareness and Automated Verification"
-    image: "/assets/publications/2026_sac/braille_overall_figure.png"
+    image: "./assets/publications/2026_sac/braille_overall_figure.png"
     authors: "<b><u>Joonsik An</u></b>, <a href='https://sites.google.com/view/dohyungkim'>Dohyoung Kim</a><sup>&#8224;</sup>, <a href='https://kyeongpil.com/professor/'>kyeongpil Kang</a><sup>&#8224;</sup>"
     venue: "The 41st ACM/SIGAPP Symposium On Applied Computing (SAC) 2026"
     # paper_pdf: "https://arxiv.org/abs/2510.00695"
@@ -22,7 +22,7 @@ papers:
     # <a>ky</a>, 
 
   - title: "SafeLink: Toward Inclusive Mobile Security Through Real-Time Phishing Prevention"
-    image: "/assets/publications/2026_sac/safelink_workflow.png"
+    image: "./assets/publications/2026_sac/safelink_workflow.png"
     authors: "<a>Wonyeong Choi</a><a>ky</a>, <a>Jiyeong Park</a>, <a>Dayeon Jeong</a>, <b><u>Joonsik An</u></b>, <a href='https://hfm.kangwon.ac.kr/members/professor'>Woojoo Kim</a>, <a href='https://kyeongpil.com/professor/'>kyeongpil Kang</a><sup>&#8224;</sup>, <a href='https://sites.google.com/view/knuisslab/members?authuser=0'>Dayoung Lee</a><sup>&#8224;</sup>"
     venue: "The 41st ACM/SIGAPP Symposium On Applied Computing (SAC) 2026"
     # paper_pdf: "https://arxiv.org/abs/2510.01711"
@@ -31,9 +31,8 @@ papers:
     # poster: ""
     selected: y
 
-  # 완
   - title: "Situated Embodied XR Agents via Spatial Reasoning and Prompting"
-    image: "/assets/publications/2026_ismar/ismar25a-sub1044-cam-i8.png"
+    image: "./assets/publications/2026_ismar/ismar25a-sub1044-cam-i8.png"
     authors: "<a>Jihun Shin</a>, <a>Hyeonjin Kim</a>, <a>Eunseong Lee</a>, <a>Donghwan Shin</a>, <a>Kwangbin Lee</a>, <a>Taehei Kim</a>, <a>Hyeshim Kim</a>, <b><u>Joonsik An</u></b>, <a href='https://lava.kaist.ac.kr/?page_id=41'>Sung-Hee Lee</a><sup>&#8224;</sup>"
     venue: "IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2025"
     paper_pdf: "https://ieeexplore.ieee.org/document/11236147"
