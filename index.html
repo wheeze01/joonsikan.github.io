@@ -26,6 +26,43 @@ layout: default
       </li>
     </ul>
 </div> -->
+<div class="docs-section" id="books_and_patents">
+  <h4>Books & Patents</h4>
+  
+  <div class="tab-content">
+    {% if site.data.publications.patents %}
+      {% for patent in site.data.publications.patents %}
+        <div class="paper">
+          <p class="title">
+            <b style="color: #4682B4;">[Patent]</b> <b>{{ patent.title }}</b>
+          </p>
+          <p>{{ patent.authors }}</p>
+          <p>
+            <i>{{ patent.number }}</i> ({{ patent.status }}) 
+            <b style="float:right;">{{ patent.date }}</b>
+          </p>
+          {% if patent.link %}
+            <div class="paper-buttons">
+              <a class="button" href="{{ patent.link }}" target="_blank">Details</a>
+            </div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+
+    {% if site.data.publications.books %}
+      {% for book in site.data.publications.books %}
+        <div class="paper">
+          <p class="title">
+            <b style="color: #CD5C5C;">[Book]</b> <b>{{ book.title }}</b>
+          </p>
+          <p>{{ book.authors }}</p>
+          <p><i>{{ book.publisher }}</i> <b style="float:right;">{{ book.date }}</b></p>
+        </div>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
 
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
