@@ -1,24 +1,4 @@
 papers:
-  - title: "[Book] 메타 사피엔스: 현실이 된 가상을 살아가는 메타버스의 신인류"
-    image: "./assets/publications/2021_book/XL.jpg"
-    authors: "<a>Minwoo Song</a>, <b><u>Joonsik An</u></b>"
-    venue: "PAZIT (ISBN: 979-11-976316-1-0)</i>, 2021"
-    paper_pdf: "https://www.yes24.com/product/goods/105627555"
-    # project_page: "https://fontadapter.github.io/"
-    # code: "https://github.com/myungkyuKoo/FontAdapter"
-    # poster: ""
-    selected: y
-
-  - title: "[Patent] 인공 지능을 이용하여 유니폼 리소스 로케이터의 위험을 분석하기 위한 방법 및 시스템"
-    image: "./assets/publications/2025_patent/number.jpeg"
-    authors: "<a href='https://sites.google.com/view/knuisslab/members?authuser=0'>Dayoung Lee</a>, <a>Jiyeong Park</a>, <a>Wonyeong Choi</a>, <a>Dayeon Jeong</a>, <b><u>Joonsik An</u></b>, <a href='https://kyeongpil.com/professor/'>kyeongpil Kang</a>, <a href='https://hfm.kangwon.ac.kr/members/professor'>Woojoo Kim</a>"
-    venue: "<i>한국 특허청 (출원번호: 10-2025-0158583)</i>, 2025 (Pending)"
-    # paper_pdf: "https://www.yes24.com/product/goods/105627555"
-    # project_page: "https://fontadapter.github.io/"
-    # code: "https://github.com/myungkyuKoo/FontAdapter"
-    # poster: ""
-    selected: y
-
   - title: "SafeLink: Uncertainty-Aware and Explainable LLM-Based Mobile Phishing Defense <i>(Pending)</i>"
     image: "./assets/publications/2026_soups/result_pdf_1.png"
     authors: "<a>Wonyeong Choi*</a>, <a>Jiyeong Park*</a>, <b><u>Joonsik An</u></b>, <a>Dayeon Jeong</a>, <a href='https://kyeongpil.com/professor/'>kyeongpil Kang</a>, <a href='https://hfm.kangwon.ac.kr/members/professor'>Woojoo Kim</a><sup>&#8224;</sup>, <a href='https://sites.google.com/view/knuisslab/members?authuser=0'>Dayoung Lee</a><sup>&#8224;</sup>"
