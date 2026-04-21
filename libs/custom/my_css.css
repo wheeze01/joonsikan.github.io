@@ -80,6 +80,17 @@ h4 {
 .project-caption {
   padding: 3px;
 }
+/* 내비게이션 바 한 줄 정렬을 위한 CSS */
+.navbar-link {
+    font-size: 11px; /* 글자 크기를 살짝 조절 (기본값은 보통 12~13px) */
+    text-transform: uppercase;
+    letter-spacing: 0px; /* 자간 축소 */
+    padding: 0 10px; /* 좌우 간격을 좁힘 (기본값보다 줄임) */
+}
+
+.navbar-item {
+    margin-bottom: 0; /* 불필요한 하단 마진 제거 */
+}
 
 /* Larger than phone */
 @media (min-width: 550px) {
