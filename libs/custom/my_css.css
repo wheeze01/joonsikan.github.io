@@ -80,22 +80,27 @@ h4 {
 .project-caption {
   padding: 3px;
 }
-/* 내비게이션 바 한 줄 정렬을 위한 CSS */
-.navbar-link {
-    font-size: 11px; /* 글자 크기를 살짝 조절 (기본값은 보통 12~13px) */
-    text-transform: uppercase;
-    letter-spacing: 0px; /* 자간 축소 */
-    padding: 0 10px; /* 좌우 간격을 좁힘 (기본값보다 줄임) */
+/* 내비게이션 바 강제 한 줄 정렬 */
+.navbar-list {
+    display: flex !important;       /* 가로 정렬 강제 */
+    flex-wrap: nowrap !important;    /* 절대 줄바꿈 금지 */
+    justify-content: space-between; /* 항목 간 간격을 균일하게 */
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;                     /* 전체 너비 활용 */
 }
 
 .navbar-item {
-    margin-bottom: 0; /* 불필요한 하단 마진 제거 */
+    flex: 0 1 auto;                 /* 공간이 부족하면 항목 크기를 자동으로 줄임 */
+    margin: 0 !important;           /* 기존 마진 모두 제거 */
 }
 
-/* Larger than phone */
-@media (min-width: 550px) {
-  .header {
-    margin-top: 5rem; }
+.navbar-link {
+    font-size: 11px !important;      /* 글자 크기 축소 */
+    padding: 0 8px !important;      /* 좌우 간격을 더 타이트하게 조정 */
+    white-space: nowrap;            /* 글자 자체의 줄바꿈 방지 */
+    letter-spacing: -0.5px;         /* 자간을 살짝 좁힘 */
 }
 
 /* Larger than tablet */
