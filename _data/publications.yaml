@@ -1,4 +1,14 @@
 papers:
+  - title: "SafeLink: Uncertainty-Aware Mobile Phishing Defense with a Stabilized LLM-Assisted Agent"
+    image: "./assets/publications/2026_acsac/overview.jpg"
+    authors: "<a>Wonyeong Choi*</a>, <a>Jiyeong Park*</a>, <b><u>Joonsik An</u></b>, <a>Dayeon Jeong</a>, <a href='https://kyeongpil.com/professor/'>kyeongpil Kang</a>, <a href='https://hfm.kangwon.ac.kr/members/professor'>Woojoo Kim</a><sup>&#8224;</sup>, <a href='https://sites.google.com/view/knuisslab/members?authuser=0'>Dayoung Lee</a><sup>&#8224;</sup>"
+    venue: "Korean Institute of Information Scientists and Engineers (KCC) 2026, Undergraduate Student Paper"
+    # paper_pdf: "https://arxiv.org/abs/2506.05843"
+    # project_page: "https://fontadapter.github.io/"
+    # code: "https://github.com/myungkyuKoo/FontAdapter"
+    # poster: ""
+    selected: y
+
   - title: "Task-Oriented Redesign of 3D Reconstruction for Dimensional Measurement: Efficiency through Relative Geometry Preservation"
     image: "./assets/publications/2026_kcc/overview.jpg"
     authors: "<a>Yideun Kim</a>, <b><u>Joonsik An</u></b>, <a href='https://hfm.kangwon.ac.kr/members/professor'>Woojoo Kim</a><sup>&#8224;</sup>, <a href='https://sites.google.com/view/knuisslab/members?authuser=0'>Dayoung Lee</a><sup>&#8224;</sup>"
