@@ -1,11 +1,11 @@
 papers:
   - title: "SafeLink: Uncertainty-Aware Mobile Phishing Defense with a Stabilized LLM-Assisted Agent"
-    image: "./assets/publications/2026_acsac/overview.jpg"
+    image: "./assets/publications/2026_acsac/overview.png"
     authors: "<a>Wonyeong Choi*</a>, <a>Jiyeong Park*</a>, <b><u>Joonsik An</u></b>, <a>Dayeon Jeong</a>, <a href='https://kyeongpil.com/professor/'>kyeongpil Kang</a>, <a href='https://hfm.kangwon.ac.kr/members/professor'>Woojoo Kim</a><sup>&#8224;</sup>, <a href='https://sites.google.com/view/knuisslab/members?authuser=0'>Dayoung Lee</a><sup>&#8224;</sup>"
-    venue: "Korean Institute of Information Scientists and Engineers (KCC) 2026, Undergraduate Student Paper"
-    # paper_pdf: "https://arxiv.org/abs/2506.05843"
-    # project_page: "https://fontadapter.github.io/"
-    # code: "https://github.com/myungkyuKoo/FontAdapter"
+    venue: "Proceedings of the 42nd Annual Computer Security Applications Conference (ACSAC 2026)"
+    # paper_pdf: ""
+    # project_page: ""
+    # code: ""
     # poster: ""
     selected: y
 
